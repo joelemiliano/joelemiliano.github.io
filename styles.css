@@ -1,5 +1,5 @@
 body {
-  background-color: #373A40;
+  background-color: --darkgray;
   color:var(--verylightgray);
 }
 
