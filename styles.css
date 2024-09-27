@@ -2,6 +2,7 @@ body {
   background-color: var(--darkgray);
   color:var(--verylightgray);
   font-family:Roboto, sans-serif;
+  font-size:18px;
 }
 
 #center {
