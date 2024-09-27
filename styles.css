@@ -6,3 +6,11 @@ body {
 #center {
   text-align:center;
 }
+
+/* Thx https://colorhunt.co/palette/eeeeee686d76373a40dc5f00 */
+:root {
+  --orange: #DC5F00;
+  --verylightgray: #EEEEEE;
+  --darkgray: #373A40;
+  --gray: #686D76;
+}
