@@ -14,3 +14,8 @@ body {
   width: fit-content;
   margin: 10vh auto;
 }
+
+a {
+color:green;
+font-decoration:underline;
+}
