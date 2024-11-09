@@ -1,6 +1,5 @@
 body {
   height: 100%;
-  text-align:center;
   background-color: black;
   color: green;
   font-family: monospace;
@@ -9,4 +8,9 @@ body {
 
 .kaomoji {
   font-size:24px;
+}
+
+.content {
+  width: fit-content;
+  margin: 10vh auto;
 }
