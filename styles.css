@@ -1,7 +1,7 @@
 body {
   height: 100%;
   background-color: black;
-  color: green;
+  color: #00ff00;
   font-family: monospace;
   font-size:16px;
   line-height:1.5;
@@ -17,6 +17,6 @@ body {
 }
 
 a {
-color:green;
+color:#00ff00;
 font-decoration:underline;
 }
